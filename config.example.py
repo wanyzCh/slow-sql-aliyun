@@ -1,0 +1,8 @@
+# === 配置信息样例 ===
+# 复制此文件为 config.py 并填入您的配置信息
+
+ACCESS_KEY_ID = "YOUR_ACCESS_KEY_ID"
+ACCESS_KEY_SECRET = "YOUR_ACCESS_KEY_SECRET"
+REGION_ID = "YOUR_REGION_ID"  # 例如: us-west-1, cn-hangzhou
+DB_INSTANCE_ID = "YOUR_DB_INSTANCE_ID"
+FEISHU_WEBHOOK = "YOUR_FEISHU_WEBHOOK_URL" 
